@@ -1,0 +1,22 @@
+h1{
+    text-align: center;
+    color:black ;
+    text-transform: capitalize;
+}
+p{
+    text-align: center;
+    line-height: 2;
+    color: blueviolet;
+    padding: 20px;
+}
+a:hover{
+    color: red;
+}
+div{
+    text-align: center;
+}
+
+img{
+    height:200px ;
+    width: 300px;
+}

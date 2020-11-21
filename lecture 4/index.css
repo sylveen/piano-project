@@ -1,0 +1,17 @@
+h1{
+    text-transform: capitalize;
+    color:yellow;
+    text-align: center;
+}
+div{
+    text-align: center;
+}
+img{
+    height: 400px;
+    width: auto;
+}
+p{
+    text-align: center;
+    font-size: 20px;
+    color: blue;
+}

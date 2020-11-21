@@ -1,0 +1,19 @@
+p{
+    color:red;
+    background-color:pink;
+    text-align: centre;
+}
+h1,h2,h3,h4,h5,h6{
+    text-align: center;
+    color: green;
+    background-color: yellow;
+    font-family: 'Courier New', Courier, monospace;
+}
+h5,h6{
+    color: red
+}
+span{
+    background-color:pink;
+    text-align: centre;
+    text-transform: uppercase
+}
